@@ -14,5 +14,5 @@ A simple and functional **Todo App** built using **Flutter**. This app allows us
 ---
 
 ## Screenshots 📱
-> ![Alt Text for Screenshot](./images/screenshot.png)
+> ![Alt Text for Screenshot](https://github.com/Mohammad-Arsalan521/Todo_Flutter_Application/blob/main/Todo%20App%20ScreenShoot.jpg?raw=true)
 
